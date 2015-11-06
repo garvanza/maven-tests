@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>garbanza</groupId>
+	<groupId>garvanza</groupId>
 	<artifactId>maven-tests</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3-SNAPSHOT</version>
 	<name>maven tests</name>
 	<description>maven tests</description>
 	<build>
@@ -37,7 +37,7 @@
 						<include>**/*</include>
 					</includes>
 					<repositoryName>maven-tests</repositoryName>      <!-- github repo name -->
-					<repositoryOwner>garbanza</repositoryOwner>    <!-- github username -->
+					<repositoryOwner>garvanza</repositoryOwner>    <!-- github username -->
 					<merge>true</merge>
 				</configuration>
 				<executions>

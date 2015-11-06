@@ -1,4 +1,4 @@
-package garbanza.maventests;
+package garvanza.maventests;
 
 public class AClass {
 
