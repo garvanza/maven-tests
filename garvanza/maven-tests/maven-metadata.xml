@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>garvanza</groupId>
+  <artifactId>maven-tests</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.3-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20151106191623</lastUpdated>
+  </versioning>
+</metadata>
