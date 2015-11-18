@@ -15,7 +15,7 @@
 	<dependency>
 		<groupId>com.github.garvanza</groupId>
 		<artifactId>maven-tests</artifactId>
-		<version>0.0.3-SNAPSHOT</version>
+		<version>0.0.3</version>
 	</dependency>
 </dependencies>
 ```
